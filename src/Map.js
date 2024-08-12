@@ -7,7 +7,7 @@ import subwayIcon from "./images/subway.png";
 import "./Map.css";
 const Landmarks = [
   {
-    name: "Foxham",
+    name: "Foxham London",
     icon: foxhamMarker,
     height: "45px",
     width: "25px",
